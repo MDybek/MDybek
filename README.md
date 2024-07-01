@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel Dybek</h1>
 <h3 align="center">A junior backend developer from Poland</h3>
 
-- 👨‍💻 I’m currently working at **Nokia**
+- 👨‍💻 I’m currently working at **Akamai**
 
 - 🎓 I'm studying **Applied Computer Science at Wroclaw University of Science and Technology**
 
